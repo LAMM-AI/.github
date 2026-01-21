@@ -1,0 +1,25 @@
+name: Pergunta / suporte
+description: Tire dúvidas ou peça ajuda
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este template para dúvidas. Se for vulnerabilidade, use a Política de Segurança.
+
+  - type: textarea
+    id: pergunta
+    attributes:
+      label: Pergunta
+      description: Qual a sua dúvida/necessidade?
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: O que você já tentou? Links, logs, prints (sem dados sensíveis).
+    validations:
+      required: false
+

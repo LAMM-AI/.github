@@ -13,8 +13,7 @@ Este repositório centraliza a **vitrine** (perfil no GitHub) e a **documentaç�
 - Portfólio: [`docs/Portfolio do Laboratorio.md`](<docs/Portfolio do Laboratorio.md>)
 - Projetos (2025.2–2026.1): [`docs/Lista de Projetos 2025.2 - 2026.1.md`](<docs/Lista de Projetos 2025.2 - 2026.1.md>)
 - Benchmark: [`docs/Benchmark de Laboratorios.md`](<docs/Benchmark de Laboratorios.md>)
-- One-pager (MD): [`30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.md`](<30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
-- One-pager (PDF): [`30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.pdf`](<30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.pdf>)
+- One-pager (MD): [`recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md`](<recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
 - Congressos: [`docs/Congressos.md`](docs/Congressos.md)
 
 ## Como editar

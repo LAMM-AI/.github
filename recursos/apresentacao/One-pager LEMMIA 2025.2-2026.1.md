@@ -1,7 +1,8 @@
 # One-pager — LEMM.IA (2025.2 - 2026.1)
 
 ## PDF (para compartilhar)
-- [One-pager LEMMIA 2025.2-2026.1.pdf](<One-pager LEMMIA 2025.2-2026.1.pdf>)
+Este repositório não versiona PDFs (`*.pdf` está no `.gitignore`).  
+Se precisar de uma versão em PDF, gere a partir deste MD ou solicite ao time.
 
 ## Resumo (1 página)
 - Missão: Conduzir pesquisa aplicada em IA que gere valor científico e prático, formando talentos, publicando resultados e criando protótipos com potencial de transferência para setores estratégicos.

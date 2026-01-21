@@ -31,7 +31,7 @@
 - 24508 — Enzo Moura de Rezende — Meta-heurísticas para Bin Packing. ([PDF](../10_Projects/Projetos/planos/24508_enzo.pdf))
 
 ## Comunicação e visibilidade
-- One-pager: [One-pager LEMMIA 2025.2-2026.1](<../30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
+- One-pager: [One-pager LEMMIA 2025.2-2026.1](<../recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
 - GitHub Organization (vitrine primária): (link quando definido)
 - Hugging Face (modelos/datasets — vitrine primária): (link quando definido)
 - Sede digital (Discord/Slack): (link quando definido)

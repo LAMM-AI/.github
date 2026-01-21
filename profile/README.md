@@ -23,7 +23,14 @@ Laboratório de IA aplicada com foco em **rigor**, **reprodutibilidade** e **imp
 - Plano de atuação (12 meses): [`docs/Planos para o Laboratorio.md`](<../docs/Planos para o Laboratorio.md>)
 - Onboarding: [`docs/Onboarding.md`](../docs/Onboarding.md)
 - Portfólio: [`docs/Portfolio do Laboratorio.md`](<../docs/Portfolio do Laboratorio.md>)
-- One-pager (MD): [`30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.md`](<../30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
+- One-pager (MD): [`recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md`](<../recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
+
+## Como contribuir
+- Leia [`CONTRIBUTING.md`](../CONTRIBUTING.md).
+- Ao participar, siga o [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md).
+
+## Segurança
+Vulnerabilidades: leia [`SECURITY.md`](../SECURITY.md).
 
 ## Contato
 - E-mail: (preencher)

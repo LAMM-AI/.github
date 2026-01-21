@@ -1,0 +1,62 @@
+name: Bug report
+description: Reporte um problema para nos ajudar a melhorar
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reportar um bug. Forneça o máximo de contexto possível.
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: O que aconteceu? Qual o impacto?
+      placeholder: "Ex.: ao executar X, ocorre Y..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos para reproduzir
+      description: Como reproduzir o problema?
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Comportamento esperado
+    validations:
+      required: true
+
+  - type: textarea
+    id: atual
+    attributes:
+      label: Comportamento atual
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / saídas
+      description: Cole aqui logs relevantes (remova informações sensíveis).
+      render: shell
+    validations:
+      required: false
+
+  - type: input
+    id: ambiente
+    attributes:
+      label: Ambiente
+      description: SO, versão, runtime (Python/Node/etc.), hardware, etc.
+      placeholder: "Ex.: Ubuntu 22.04, Python 3.11, CUDA 12.1"
+    validations:
+      required: false
+

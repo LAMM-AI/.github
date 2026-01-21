@@ -274,7 +274,7 @@ graph TD
 ## Quick wins de visibilidade (0–90 dias)
 - Publicar site com missão/visão, frentes, equipe e 3 projetos vitrine.
 - Selecionar 3 projetos vitrine com base no [Portfólio do Laboratório](<Portfolio do Laboratorio.md>) (sugestão: Andressa + Hitalo + Enzo).
-- One-pager do lab (PDF): [One-pager LEMMIA 2025.2-2026.1.pdf](<../30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.pdf>)
+- One-pager do lab (MD): [One-pager LEMMIA 2025.2-2026.1.md](<../recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
 - Fazer 1 demo funcional para o site (vídeo curto ou GIF).
 - Submeter talk em evento local ou organizar meetup simples.
 - Abrir 1 repositório open-source com template do lab ou baseline.

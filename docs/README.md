@@ -13,8 +13,7 @@
 - [`Lista de Projetos 2025.2 - 2026.1.md`](<Lista de Projetos 2025.2 - 2026.1.md>)
 
 ## Comunicação
-- One-pager (MD): [`One-pager LEMMIA 2025.2-2026.1.md`](<../30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
-- One-pager (PDF): [`One-pager LEMMIA 2025.2-2026.1.pdf`](<../30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.pdf>)
+- One-pager (MD): [`One-pager LEMMIA 2025.2-2026.1.md`](<../recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
 
 ## Referências
 - [`Benchmark de Laboratorios.md`](<Benchmark de Laboratorios.md>)

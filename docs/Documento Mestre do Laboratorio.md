@@ -196,7 +196,7 @@ Elementos-chave:
 - **Vitrine primária**: GitHub Organization + Hugging Face (modelos/datasets).
 - **Regra**: todo paper aceito deve ter (quando permitido): código no GitHub do lab + pesos (weights) e (se possível) dataset no Hugging Face, com Model Card bem escrito.
 - Site do laboratório é **secundário** (apontar para GitHub/Hugging Face).
-- **One-pager** atualizado trimestralmente: [One-pager LEMMIA 2025.2-2026.1](<../30_Resources/Apresentacao/One-pager LEMMIA 2025.2-2026.1.md>).
+- **One-pager** atualizado trimestralmente: [One-pager LEMMIA 2025.2-2026.1](<../recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>).
 - LinkedIn e eventos: opcionais (amplificação, não “fonte de verdade”).
 
 ## 14) Metas (12 meses)
