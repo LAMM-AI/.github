@@ -15,6 +15,9 @@
 ## Comunicação
 - One-pager (MD): [`One-pager LEMMIA 2025.2-2026.1.md`](<../recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
 
+## Governança
+- [`Governanca GitHub.md`](<Governanca GitHub.md>)
+
 ## Referências
 - [`Benchmark de Laboratorios.md`](<Benchmark de Laboratorios.md>)
 - [`Congressos.md`](Congressos.md)

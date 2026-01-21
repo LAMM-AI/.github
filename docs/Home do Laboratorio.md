@@ -26,9 +26,9 @@
 - Encontros síncronos e journal club: opcionais (sempre com registro em texto).
 
 ## Projetos vitrine (definição)
-- 24354 — Andressa Ferreira da Silva — Risco de acidentes aéreos com variáveis climáticas. ([PDF](../10_Projects/Projetos/planos/24354_andressa.pdf))
-- 24589 — Hitalo Augusto Lourenco Guedes — Imputação de dados climáticos com ML. ([PDF](../10_Projects/Projetos/planos/24589_Hitalo.pdf))
-- 24508 — Enzo Moura de Rezende — Meta-heurísticas para Bin Packing. ([PDF](../10_Projects/Projetos/planos/24508_enzo.pdf))
+- 24354 — Andressa Ferreira da Silva — Risco de acidentes aéreos com variáveis climáticas. (PDF local: `24354_andressa.pdf`)
+- 24589 — Hitalo Augusto Lourenco Guedes — Imputação de dados climáticos com ML. (PDF local: `24589_Hitalo.pdf`)
+- 24508 — Enzo Moura de Rezende — Meta-heurísticas para Bin Packing. (PDF local: `24508_enzo.pdf`)
 
 ## Comunicação e visibilidade
 - One-pager: [One-pager LEMMIA 2025.2-2026.1](<../recursos/apresentacao/One-pager LEMMIA 2025.2-2026.1.md>)
