@@ -2,6 +2,12 @@
 
 Este documento descreve o baseline de **proteção de branch** (Rulesets) para a organização.
 
+## Limitações do plano (importante)
+- **Rulesets em nível de organização** exigem **GitHub Team** (no plano Free a API retorna 403).
+- Em repositórios **privados**, branch protection/rulesets também podem exigir upgrade (ex.: GitHub Pro/Team).
+
+Se o ruleset de organização não estiver disponível, aplique proteção **por repositório** (branch protection na branch padrão).
+
 ## Baseline (recomendado)
 Aplicação:
 - Todos os repositórios (`~ALL`)
@@ -26,6 +32,7 @@ Arquivos:
 Requisitos:
 - `gh` (GitHub CLI)
 - `gh auth login` **ou** `GH_TOKEN` exportado no ambiente (token com permissão de administrar a organização)
+- **GitHub Team** habilitado na organização (para rulesets em nível de org)
 
 Exemplo:
 ```bash

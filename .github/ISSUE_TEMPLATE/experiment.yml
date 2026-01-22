@@ -1,0 +1,87 @@
+name: Experimento (Experiment Card)
+description: Proponha e registre um experimento com hipótese, métrica e evidências
+labels: ["experiment"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use esta issue para manter rastreabilidade do experimento (hipótese → execução → evidências).
+
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Objetivo
+      description: O que você quer testar e por quê?
+    validations:
+      required: true
+
+  - type: textarea
+    id: hipotese
+    attributes:
+      label: Hipótese
+      description: O que deve acontecer se a ideia estiver correta?
+    validations:
+      required: true
+
+  - type: textarea
+    id: dados
+    attributes:
+      label: Dataset(s)
+      description: Fonte + versão/ID/checksum + split
+      placeholder: |
+        - Fonte:
+        - Versão:
+        - Split:
+    validations:
+      required: true
+
+  - type: textarea
+    id: metricas
+    attributes:
+      label: Métrica(s)
+      placeholder: |
+        - Primária:
+        - Secundárias:
+    validations:
+      required: true
+
+  - type: textarea
+    id: baseline
+    attributes:
+      label: Baseline
+      description: Qual baseline será comparado?
+    validations:
+      required: true
+
+  - type: textarea
+    id: mudanca
+    attributes:
+      label: Mudança testada
+      description: O que mudou (código/config/dados)?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproducao
+    attributes:
+      label: Comando de reprodução
+      description: Cole o comando end-to-end (ou link para script).
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: evidencias
+    attributes:
+      label: Evidências / resultados
+      description: Métricas, plots, logs e links para artefatos.
+    validations:
+      required: false
+
+  - type: textarea
+    id: conclusao
+    attributes:
+      label: Conclusão e próximos passos
+    validations:
+      required: false
+

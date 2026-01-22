@@ -5,6 +5,9 @@ Este repositório centraliza a **vitrine** (perfil no GitHub) e a **documentaç�
 ## Vitrine (GitHub)
 - Perfil da organização: [`profile/README.md`](profile/README.md)
 
+## Padrão de repositórios (templates)
+- Handbook + templates (copiar para novos repos): [`lab-handbook/README.md`](lab-handbook/README.md)
+
 ## Documentação
 - Índice: [`docs/README.md`](docs/README.md)
 - Home do laboratório (painel): [`docs/Home do Laboratorio.md`](<docs/Home do Laboratorio.md>)
