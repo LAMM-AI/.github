@@ -1,0 +1,3 @@
+# Dependências do projeto
+# - fixe versões quando o baseline estabilizar
+

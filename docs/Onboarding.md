@@ -154,6 +154,9 @@ project/
 - Estrutura de paper, LaTeX/Overleaf, referências
 
 ## Onboarding kit recomendado
+Este kit (templates + políticas) está disponível neste repositório em:
+- [`lab-handbook/`](../lab-handbook/)
+
 ```
 lab-handbook/
   ONBOARDING.md

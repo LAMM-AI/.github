@@ -7,6 +7,7 @@
 ## Estratégia e operação
 - [`Documento Mestre do Laboratorio.md`](<Documento Mestre do Laboratorio.md>)
 - [`Planos para o Laboratorio.md`](<Planos para o Laboratorio.md>)
+- Templates/políticas (handbook): [`../lab-handbook/README.md`](<../lab-handbook/README.md>)
 
 ## Portfólio
 - [`Portfolio do Laboratorio.md`](<Portfolio do Laboratorio.md>)

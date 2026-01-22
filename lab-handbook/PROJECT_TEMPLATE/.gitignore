@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Envs
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Data (nunca versionar dados)
+data/**
+!data/README.md
+
+# Results / artifacts (opcional: mantenha apenas README)
+results/**
+!results/README.md
+checkpoints/**
+!checkpoints/README.md
+
+# Outputs (gerados)
+*.log
+*.tmp
+
+# Papers (gerados). Remova estas linhas se quiser versionar PDFs finais.
+*.pdf
+

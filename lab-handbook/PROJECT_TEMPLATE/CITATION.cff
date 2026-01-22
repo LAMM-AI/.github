@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se você usar este trabalho, por favor cite."
+title: "(preencher) — LEMM.IA"
+type: software
+authors:
+  - family-names: "(sobrenome)"
+    given-names: "(nome)"
+repository-code: "https://github.com/LAMM-AI/(repo)"
+license: "(preencher)"
+
