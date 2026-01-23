@@ -3,12 +3,15 @@
 Este repositório centraliza a **vitrine** (perfil no GitHub) e a **documentação institucional** do laboratório.
 
 ## Vitrine (GitHub)
+
 - Perfil da organização: [`profile/README.md`](profile/README.md)
 
 ## Padrão de repositórios (templates)
+
 - Handbook + templates (copiar para novos repos): [`lab-handbook/README.md`](lab-handbook/README.md)
 
 ## Documentação
+
 - Índice: [`docs/README.md`](docs/README.md)
 - Home do laboratório (painel): [`docs/Home do Laboratorio.md`](<docs/Home do Laboratorio.md>)
 - Documento mestre (missão/visão/gates): [`docs/Documento Mestre do Laboratorio.md`](<docs/Documento Mestre do Laboratorio.md>)
@@ -20,5 +23,6 @@ Este repositório centraliza a **vitrine** (perfil no GitHub) e a **documentaç�
 - Congressos: [`docs/Congressos.md`](docs/Congressos.md)
 
 ## Como editar
+
 - Ajuste o texto público em `profile/README.md` (é o que aparece na página da organização).
 - Mantenha a documentação de referência e operação em `docs/`.
