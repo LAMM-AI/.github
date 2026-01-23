@@ -1,9 +1,9 @@
 # LEMM.IA
 
-Laboratório de IA aplicada com foco em **rigor**, **reprodutibilidade** e **impacto regional**.
+Laboratório multissetorial de pesquisa aplicada em computação, orientado a entregas e transferência.
 
 ## O que fazemos
-- Pesquisa aplicada em IA (hipótese → baseline reprodutível → métricas → artefatos).
+- Pesquisa aplicada (hipótese → baseline reprodutível → métricas → artefatos).
 - Formação de talentos (IC, TCC e pós) com entregas reais (papers, demos, datasets, software).
 
 ## Eixos temáticos (base atual)

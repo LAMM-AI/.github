@@ -10,10 +10,10 @@
 - Vitrine: site do laboratório.
 
 ## Missão (refinada)
-Conduzir pesquisa aplicada em IA que gere valor científico e prático, formando talentos, publicando resultados e criando protótipos com potencial de transferência para setores estratégicos.
+Conduzir pesquisa aplicada em computação que gere valor científico e prático, formando talentos, publicando resultados e criando protótipos com potencial de transferência para setores estratégicos.
 
 ## Visão (refinada)
-Ser referência regional em IA aplicada, reconhecida pela excelência científica e pela colaboração com o setor produtivo (aeronáutico, agroindustrial, logístico).
+Ser referência regional em pesquisa aplicada em computação, reconhecida pela excelência científica e pela colaboração com o setor produtivo (aeronáutico, agroindustrial, logístico).
 
 ## Resumo executivo (ano 1)
 - Foco: consolidar rotinas, padrões e 2–4 linhas principais, gerando entregas publicáveis e uma vitrine externa.

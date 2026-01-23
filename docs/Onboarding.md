@@ -6,6 +6,9 @@
 - Garantir segurança e conformidade (LGPD, NDA quando aplicável).
 - Dar previsibilidade: o aluno sabe o que fazer no Dia 1, Semana 1 e Mês 1.
 
+> **Nota**: O LEMM.IA é um laboratório **multissetorial**. Para projetos que não envolvem IA/Machine Learning (ex.: otimização, sistemas distribuídos, software), adapte os módulos técnicos (ex.: ignore a parte de GPU/Model Card se não se aplicar).
+
+
 ## Papéis e responsabilidades
 - Coordenador do laboratório: aprova entrada, define linha/trilha, resolve conflitos de GPU.
 - Líder de linha: define escopo técnico inicial, baseline e métricas; revisa PRs e resultados.
