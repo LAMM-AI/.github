@@ -1,6 +1,7 @@
 # `.github` — LEMM.IA
 
 Este repositório centraliza a **vitrine** (perfil no GitHub) e a **documentação institucional** do laboratório.
+Projetos não se limitam a IC/TCC/Pós: iniciativas independentes também podem atuar, publicar e gerar entregas.
 
 ## Vitrine (GitHub)
 
