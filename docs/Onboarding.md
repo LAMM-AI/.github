@@ -110,6 +110,7 @@ project/
 - README com comando de reprodução
 
 ### Padrões de engenharia (mínimo)
+- Cada membro é responsável pela organização do próprio repositório, mantendo boas práticas e o padrão mínimo quando aplicável.
 - Todo avanço passa por PR
 - Mensagens de commit claras
 - Lint/format (ex.: black/ruff) e pre-commit quando possível
