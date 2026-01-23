@@ -1,6 +1,7 @@
 # Lista de Projetos — 2025.2 a 2026.1
 
 ## Contexto
+
 - Lista compilada a partir de planos/arquivos do ciclo 2025.2-2026.1.
 - PDFs de referência (locais, não versionados): `projetos/planos/*.pdf` (planos) e `projetos/producoes/*.pdf` (produções).
 - Visão geral do ciclo: [Portfólio do Laboratório](<Portfolio do Laboratorio.md>).
