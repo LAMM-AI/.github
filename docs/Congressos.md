@@ -1,13 +1,22 @@
-# Congressos (oportunidades de publicação)
+# Congressos e eventos
 
 ## Como usar este calendário
 
 - Objetivo: manter **oportunidades de submissão** (CFPs) e **datas do evento** para o laboratório.
 - Prioridade: **Brasil** (eixos do LEMM.IA: risco/segurança, agro/clima, otimização/logística, infra inteligente, finanças quantitativas).
 - Regra prática: acompanhar **prazos de submissão** (mais importante) e só depois logística de viagem.
+- Escopo FAPEG: acompanhar oportunidades internacionais aderentes a Pesquisa Operacional, Engenharia de Produção, IA, dados, sistemas, finanças, transporte e logística.
 
 > [!NOTE]
-> Checado em **2026-01-20** para o calendário nacional inicial. Bloco FAPEG e eventos internacionais acrescentados em **2026-05-06** a partir da Chamada Pública FAPEG No 08/2026 e páginas oficiais dos eventos. Onde estiver **“a confirmar”**, revisar o site do evento.
+> Checado em **2026-01-20** para o calendário nacional inicial. Bloco FAPEG e eventos internacionais consolidados em **2026-05-06** a partir da Chamada Pública FAPEG No 08/2026 e páginas oficiais dos eventos. Onde estiver **“a confirmar”**, revisar o site do evento.
+
+## Mapa rápido
+
+- **FAPEG 2026-2027**: regras operacionais, ciclos e riscos de timing para viagens internacionais.
+- **Eventos internacionais**: oportunidades alinhadas ao edital FAPEG, com submissão, aceite e ação recomendada.
+- **Carteira por linha de trabalho**: alvos preferenciais por tema do LEMM.IA.
+- **Prazos nacionais**: deadlines de submissão já mapeados para 2026.
+- **Calendário 2026**: datas dos eventos, útil para planejamento de agenda.
 
 ## Edital FAPEG - Mobilidade internacional 2026-2027
 
@@ -36,7 +45,7 @@ O edital apoia participação em eventos acadêmicos no exterior com apresentaç
 
 Regra prática: para eventos entre agosto/2026 e fevereiro/2027, a decisão de viagem precisa estar madura até 2026-05-29. Eventos cujo aceite sai depois dessa data ainda podem ser relevantes, mas carregam risco operacional maior para a inscrição no 1o ciclo. A leitura operacional do edital é que ele não restringe a área do conhecimento; o ponto crítico é escolher bem o evento indicado, porque a viagem aprovada fica vinculada ao evento informado e a rejeição posterior do trabalho pode inviabilizar a execução.
 
-## Eventos internacionais alinhados ao edital FAPEG
+## Eventos internacionais - FAPEG
 
 | Evento | Data do evento | Ciclo FAPEG | Fonte | Janela de submissão ou aceite | Ação recomendada |
 | --- | --- | --- | --- | --- | --- |
@@ -67,7 +76,7 @@ Regra prática: para eventos entre agosto/2026 e fevereiro/2027, a decisão de v
 | ICSE 2027 - International Conference on Software Engineering | 2027-04-25 a 2027-05-01, Dublin, Irlanda | 2o ciclo | [Site oficial ICSE 2027](https://conf.researchr.org/home/icse-2027) e [Research Track](https://conf.researchr.org/track/icse-2027/icse-2027-research-track) | Research track: abstract até 2026-06-23, submissão até 2026-06-30, notificação em 2026-10-20; decisão final de major revision em 2026-12-18 | Alvo máximo para IA em engenharia de software, agentes, code generation, program repair, AIOps, avaliação de ferramentas e automação; exige avaliação experimental forte |
 | MISTA 2027 - Multidisciplinary International Scheduling Conference | 2027-06-07 a 2027-06-11, Tours, França | 2o ciclo | [Chamada oficial MISTA 2027](https://mistaconference.net/cfp/) e [datas oficiais](https://mistaconference.net/dates/) | Full paper até 2026-12-15; abstract até 2026-12-30; decisão em 2027-03-01 | Excelente tema para scheduling, metaheurísticas, roteamento e produção, mas timing ruim: decisão sai bem depois da inscrição FAPEG do 2o ciclo |
 
-## Carteira FAPEG por linha de trabalho
+## Carteira por linha de trabalho
 
 | Linha de trabalho | Alvos principais | Racional |
 | --- | --- | --- |
@@ -81,7 +90,7 @@ Regra prática: para eventos entre agosto/2026 e fevereiro/2027, a decisão de v
 
 Estratégia de submissão: escolher no máximo 2 ou 3 trabalhos por ciclo FAPEG, cada um em uma trilha distinta. O pacote colocalizado de Angers é especialmente útil para submissão em grupo, porque IC3K, WEBIST, IJCCI e ICINCO compartilham cidade, período e prazos, mas aceitam contribuições de naturezas diferentes.
 
-## Prazos de submissão (quando “fecha”)
+## Prazos de submissão nacionais
 
 | Deadline (YYYY-MM-DD) | Evento | Local | Tipo | Status (em 2026-01-20) | Fonte | Observações |
 |---|---|---|---|---|---|---|
@@ -97,7 +106,7 @@ Estratégia de submissão: escolher no máximo 2 ou 3 trabalhos por ciclo FAPEG,
 | 2026-05-24 | RAMICS 2026 | Rio de Janeiro/RJ | Full paper | Aberto | <https://ramics.org/2025/11/04/8th-ramics-congress-venue-announcement/> | — |
 | 2026-05-30 | WSAISD 2026 (World Symposium on AI for Sustainable Development) | São Paulo/SP (USP) | Full paper (livro, opcional) | Aberto | <https://www.haw-hamburg.de/en/university/newsroom/news-details/news/news/show/world-symposium-on-artificial-intelligence-for-sustainable-development-wsaisd-2026/> | Pós-evento. |
 
-## Calendário 2026 (datas do evento)
+## Calendário nacional 2026
 
 ### Maio 2026
 
