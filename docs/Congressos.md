@@ -78,15 +78,14 @@ Regra prática: para eventos entre agosto/2026 e fevereiro/2027, a decisão de v
 
 ## Carteira por linha de trabalho
 
-| Linha de trabalho | Alvos principais | Racional |
+| Linha de trabalho | Alvos principais | O que costuma aceitar |
 | --- | --- | --- |
-| RAG, conhecimento, vault, ontologias e organização de pesquisa | IC3K/KDIR/KEOD/KMIS, CIKM, DocEng, WEBIST | Cobre desde pesquisa aplicada em conhecimento até sistemas demonstráveis de documento, busca, recuperação e web semântica |
-| IA, agentes, XAI, modelos generativos e computational intelligence | IJCCI, FedCSIS, CIKM, IEEE BigData | Permite trabalhos teóricos, aplicados, benchmarks, agentes, avaliação de LLMs e sistemas inteligentes |
-| Software, Codex, ferramentas, automação e manutenção | ICSME, ICSE, FedCSIS, WEBIST | Melhor rota para ferramentas de engenharia de software, datasets, demos, automação por LLM e avaliação empírica |
-| Dados, benchmarks, pipelines e sistemas data-heavy | IEEE BigData, FedCSIS, CIKM, IC3K/KDIR | Boa rota para trabalhos com dataset, processamento, métricas, avaliação, mineração e infraestrutura de dados |
-| Finanças, cripto, DeFi e IA financeira | AFT, ICAIF, IEEE BigData, CIKM | Separa contribuições de blockchain/infraestrutura financeira de trabalhos de IA aplicada a finanças |
-| Engenharia de Produção, gestão, processos e sustentabilidade | ENEGEP, SBPO, OR 2026, INFORMS, ICINCO | Boa trilha nacional e internacional para modelagem de dados, inovação, processos produtivos, sustentabilidade, logística e sistemas de decisão |
-| Logística, transporte, otimização e PequiFlux | SBPO, OR 2026, INFORMS, CLAIO/ASOCIO, TRB, ICINCO, MISTA | Mantém a trilha de Pesquisa Operacional e abre portas para transporte, automação, controle e sistemas operacionais |
+| Finanças quantitativas, cripto e IA financeira | AFT, ICAIF, IEEE BigData, CIKM, SBC'26 | Modelos preditivos para mercados, séries temporais financeiras, aprendizado por reforço, risco, fraude, criptoativos, blockchain, DeFi, infraestrutura financeira e avaliação empírica de estratégias |
+| Aeronáutica, segurança operacional, PHM e RUL | TRB, ICVES, IEEE BigData, FedCSIS, IJCCI | Modelagem de risco, segurança operacional, confiabilidade, manutenção preditiva, prognostics and health management, vida útil remanescente, sensores, dados operacionais e modelos physics-informed |
+| Agro/clima, agricultura de precisão, IoT e gêmeo digital | IEEE BigData, FedCSIS, ICINCO, WSC, CBA | Tratamento de dados climáticos, sensoriamento, agricultura de precisão, drones, visão computacional, IoT, computação em névoa, gêmeos digitais, simulação e sistemas de monitoramento |
+| Construção civil, infraestrutura inteligente, IoT/blockchain e otimização estrutural | ICINCO, FedCSIS, IEEE BigData, WSC, CBA, ENEGEP | Monitoramento estrutural, sensores, rastreabilidade de dados, blockchain aplicado, otimização de projeto, modelagem estrutural, automação, simulação e suporte computacional à engenharia |
+| Logística, otimização, metaheurísticas e bin packing | SBPO, OR 2026, INFORMS, CLAIO/ASOCIO, MISTA | Pesquisa Operacional, programação matemática, heurísticas, metaheurísticas, scheduling, roteirização, empacotamento, alocação de recursos, simulação e apoio à decisão |
+| IA/ML aplicada, dados, benchmarks e sistemas data-heavy | KDD, IJCCI, IEEE BigData, CIKM, FedCSIS | Mineração de dados, aprendizado de máquina, séries temporais, benchmarks, pipelines, integração de dados, avaliação experimental, sistemas inteligentes e aplicações orientadas por dados |
 
 Estratégia de submissão: escolher no máximo 2 ou 3 trabalhos por ciclo FAPEG, cada um em uma trilha distinta. O pacote colocalizado de Angers é especialmente útil para submissão em grupo, porque IC3K, WEBIST, IJCCI e ICINCO compartilham cidade, período e prazos, mas aceitam contribuições de naturezas diferentes.
 
